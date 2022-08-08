@@ -1,0 +1,285 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`dashboard User navigates to dashboard 1`] = `
+<ScrollViewMock
+  contentContainerStyle={
+    Object {
+      "alignItems": "center",
+      "flex": 1,
+      "justifyContent": "center",
+    }
+  }
+  keyboardShouldPersistTaps="always"
+  style={
+    Object {
+      "backgroundColor": "#ffffff",
+      "flex": 1,
+      "marginLeft": "auto",
+      "marginRight": "auto",
+      "maxWidth": 650,
+      "width": "100%",
+    }
+  }
+>
+  <TouchableWithoutFeedback
+    onPress={[Function]}
+  >
+    <View
+      style={
+        Object {
+          "flex": 1,
+          "marginHorizontal": 15,
+        }
+      }
+    >
+      <View
+        style={
+          Object {
+            "alignItems": "center",
+            "flex": 1,
+            "justifyContent": "center",
+          }
+        }
+      >
+        <FlatList
+          data={Array []}
+          disableVirtualization={false}
+          extraData={
+            Object {
+              "dashboardData": Array [],
+              "errorMsg": "",
+              "loading": false,
+              "token": "",
+            }
+          }
+          horizontal={false}
+          initialNumToRender={10}
+          keyExtractor={[Function]}
+          maxToRenderPerBatch={10}
+          numColumns={1}
+          onEndReachedThreshold={2}
+          removeClippedSubviews={false}
+          renderItem={[Function]}
+          scrollEventThrottle={50}
+          showsVerticalScrollIndicator={false}
+          updateCellsBatchingPeriod={50}
+          windowSize={21}
+        />
+      </View>
+    </View>
+  </TouchableWithoutFeedback>
+</ScrollViewMock>
+`;
+
+exports[`dashboard User navigates to dashboard 2`] = `
+<ScrollViewMock
+  contentContainerStyle={
+    Object {
+      "alignItems": "center",
+      "flex": 1,
+      "justifyContent": "center",
+    }
+  }
+  keyboardShouldPersistTaps="always"
+  style={
+    Object {
+      "backgroundColor": "#ffffff",
+      "flex": 1,
+      "marginLeft": "auto",
+      "marginRight": "auto",
+      "maxWidth": 650,
+      "width": "100%",
+    }
+  }
+>
+  <TouchableWithoutFeedback
+    onPress={[Function]}
+  >
+    <View
+      style={
+        Object {
+          "flex": 1,
+          "marginHorizontal": 15,
+        }
+      }
+    >
+      <View
+        style={
+          Object {
+            "alignItems": "center",
+            "flex": 1,
+            "justifyContent": "center",
+          }
+        }
+      >
+        <FlatList
+          data={Array []}
+          disableVirtualization={false}
+          extraData={
+            Object {
+              "dashboardData": Array [],
+              "errorMsg": "",
+              "loading": false,
+              "token": "",
+            }
+          }
+          horizontal={false}
+          initialNumToRender={10}
+          keyExtractor={[Function]}
+          maxToRenderPerBatch={10}
+          numColumns={1}
+          onEndReachedThreshold={2}
+          removeClippedSubviews={false}
+          renderItem={[Function]}
+          scrollEventThrottle={50}
+          showsVerticalScrollIndicator={false}
+          updateCellsBatchingPeriod={50}
+          windowSize={21}
+        />
+      </View>
+    </View>
+  </TouchableWithoutFeedback>
+</ScrollViewMock>
+`;
+
+exports[`dashboard User navigates to dashboard 3`] = `
+<ScrollViewMock
+  contentContainerStyle={
+    Object {
+      "alignItems": "center",
+      "flex": 1,
+      "justifyContent": "center",
+    }
+  }
+  keyboardShouldPersistTaps="always"
+  style={
+    Object {
+      "backgroundColor": "#ffffff",
+      "flex": 1,
+      "marginLeft": "auto",
+      "marginRight": "auto",
+      "maxWidth": 650,
+      "width": "100%",
+    }
+  }
+>
+  <TouchableWithoutFeedback
+    onPress={[Function]}
+  >
+    <View
+      style={
+        Object {
+          "flex": 1,
+          "marginHorizontal": 15,
+        }
+      }
+    >
+      <View
+        style={
+          Object {
+            "alignItems": "center",
+            "flex": 1,
+            "justifyContent": "center",
+          }
+        }
+      >
+        <FlatList
+          data={Array []}
+          disableVirtualization={false}
+          extraData={
+            Object {
+              "dashboardData": Array [],
+              "errorMsg": "",
+              "loading": false,
+              "token": "",
+            }
+          }
+          horizontal={false}
+          initialNumToRender={10}
+          keyExtractor={[Function]}
+          maxToRenderPerBatch={10}
+          numColumns={1}
+          onEndReachedThreshold={2}
+          removeClippedSubviews={false}
+          renderItem={[Function]}
+          scrollEventThrottle={50}
+          showsVerticalScrollIndicator={false}
+          updateCellsBatchingPeriod={50}
+          windowSize={21}
+        />
+      </View>
+    </View>
+  </TouchableWithoutFeedback>
+</ScrollViewMock>
+`;
+
+exports[`dashboard User navigates to dashboard 4`] = `
+<ScrollViewMock
+  contentContainerStyle={
+    Object {
+      "alignItems": "center",
+      "flex": 1,
+      "justifyContent": "center",
+    }
+  }
+  keyboardShouldPersistTaps="always"
+  style={
+    Object {
+      "backgroundColor": "#ffffff",
+      "flex": 1,
+      "marginLeft": "auto",
+      "marginRight": "auto",
+      "maxWidth": 650,
+      "width": "100%",
+    }
+  }
+>
+  <TouchableWithoutFeedback
+    onPress={[Function]}
+  >
+    <View
+      style={
+        Object {
+          "flex": 1,
+          "marginHorizontal": 15,
+        }
+      }
+    >
+      <View
+        style={
+          Object {
+            "alignItems": "center",
+            "flex": 1,
+            "justifyContent": "center",
+          }
+        }
+      >
+        <FlatList
+          data={Array []}
+          disableVirtualization={false}
+          extraData={
+            Object {
+              "dashboardData": Array [],
+              "errorMsg": "",
+              "loading": false,
+              "token": "",
+            }
+          }
+          horizontal={false}
+          initialNumToRender={10}
+          keyExtractor={[Function]}
+          maxToRenderPerBatch={10}
+          numColumns={1}
+          onEndReachedThreshold={2}
+          removeClippedSubviews={false}
+          renderItem={[Function]}
+          scrollEventThrottle={50}
+          showsVerticalScrollIndicator={false}
+          updateCellsBatchingPeriod={50}
+          windowSize={21}
+        />
+      </View>
+    </View>
+  </TouchableWithoutFeedback>
+</ScrollViewMock>
+`;

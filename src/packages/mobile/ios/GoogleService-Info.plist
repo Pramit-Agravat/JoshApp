@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>618894992047-v9i625nhc57qcf8gvhjiqd59anvvm1qi.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.618894992047-v9i625nhc57qcf8gvhjiqd59anvvm1qi</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>618894992047-g7qihf6jakkg57hmvi22ea0m07fud7g6.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCf9hHeOP5iu-rt2SFtTeEAq9ZDIhzQW1Y</string>
+	<key>GCM_SENDER_ID</key>
+	<string>618894992047</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.JoshFanapp</string>
+	<key>PROJECT_ID</key>
+	<string>joshapp-61ed1</string>
+	<key>STORAGE_BUCKET</key>
+	<string>joshapp-61ed1.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:618894992047:ios:61606b04f37849ba972a5a</string>
+</dict>
+</plist>

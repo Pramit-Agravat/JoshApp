@@ -1,0 +1,71 @@
+{
+  "name": "JoshFanapp",
+  "version": "0.0.1",
+  "private": true,
+  "workspaces": {
+    "packages": [
+      "packages/*"
+    ]
+  },
+  "scripts": {
+    "android": "yarn workspace mobile android",
+    "compile": "tsc -b --incremental",
+    "ios": "yarn workspace mobile  ios",
+    "studio": "yarn workspace mobile studio",
+    "xcode": "yarn workspace mobile xcode"
+  },
+  "dependencies": {
+    "@ptomasroos/react-native-multi-slider": "^2.2.2",
+    "@react-native-community/checkbox": "^0.5.5",
+    "@react-native-community/netinfo": "^6.0.0",
+    "@react-native-firebase/app": "^12.8.0",
+    "@react-navigation/native": "^5.0.5",
+    "@types/react-native-material-dropdown": "^0.11.5",
+    "@unimodules/core": "^5.0.0",
+    "@unimodules/react-native-adapter": "^5.0.0",
+    "formik": "^2.1.4",
+    "i18n-js": "^3.7.1",
+    "moment": "^2.29.1",
+    "react-geocode": "^0.2.1",
+    "react-native": "0.61.3",
+    "react-native-calendars": "^1.1128.0",
+    "react-native-check-box": "^2.1.7",
+    "react-native-countdown-component": "^2.7.1",
+    "react-native-easy-toast": "^2.0.0",
+    "react-native-elements": "^1.2.7",
+    "react-native-fast-image": "^7.0.2",
+    "react-native-fbsdk": "^3.0.0",
+    "react-native-image-crop-picker": "^0.35.2",
+    "react-native-image-picker": "2.3.0",
+    "react-native-keyboard-aware-scroll-view": "^0.9.4",
+    "react-native-localize": "^1.4.1",
+    "react-native-material-dropdown": "^0.11.1",
+    "react-native-material-textfield": "^0.16.1",
+    "react-native-permissions": "^2.2.0",
+    "react-native-responsive-fontsize": "^0.4.3",
+    "react-native-responsive-screen": "^1.4.1",
+    "react-native-star-rating": "^1.1.0",
+    "react-native-vector-icons": "6.6.0",
+    "react-native-webview": "^10.9.2",
+    "react-navigation": "^2.17.0",
+    "react-navigation-stack": "^2.1.1",
+    "recompose": "^0.30.0",
+    "toggle-switch-react-native": "^3.2.0",
+    "yup": "^0.28.1"
+  },
+  "devDependencies": {
+    "@types/node": "^13.7.2",
+    "@types/react": "16.9.11",
+    "@types/react-native": "0.60.22",
+    "@types/react-native-check-box": "^2.1.0",
+    "@types/react-navigation": "^3.4.0",
+    "@types/recompose": "^0.30.7",
+    "@types/yup": "^0.26.30",
+    "concurrently": "5.0.0",
+    "enzyme": "^3.3.0",
+    "enzyme-adapter-react-16": "^1.15.2",
+    "jest-cucumber": "^3.0.1",
+    "react-native-save-view": "^0.2.3",
+    "typescript": "^4.1.3"
+  }
+}

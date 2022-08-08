@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "618894992047",
+    "project_id": "joshapp-61ed1",
+    "storage_bucket": "joshapp-61ed1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:618894992047:android:9afd50a31154605e972a5a",
+        "android_client_info": {
+          "package_name": "com.JoshFanapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "618894992047-fi3gh64sm27u49n7fvmmofjccin2ju92.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.JoshFanapp",
+            "certificate_hash": "4896b0501399f6bc616f4a92b686546fc1d9456a"
+          }
+        },
+        {
+          "client_id": "618894992047-kjievtn81a293i6r03qt88l47cilm4jj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.JoshFanapp",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "618894992047-i3ppuou5kmbk6g1ufi4rg5ohaea608nl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUv4lX-AGDwb-rKH9j1S5W7z1DbW25jto"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "618894992047-i3ppuou5kmbk6g1ufi4rg5ohaea608nl.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "618894992047-v9i625nhc57qcf8gvhjiqd59anvvm1qi.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.JoshFanapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
